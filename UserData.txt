@@ -1,0 +1,5 @@
+ID, Password, Nickname, Name, E-mail, Birth, Phone-number, github
+network,54321,network,황성민,network@naver.com,981111,01012345678
+chkang,8090hs,kang,강창훈,chkang31@naver.com,981113,010-9492-3610,Cuz
+hgwon37,8121dkw,snoopy,장형권,wkdgudrnjs37@naver.com,000307,010-9964-9059,Cuz
+tnfpck0306,4795565,Cuz,황성민,tnfpck0306@naver.com,980701,01046277606,kang,snoopy,network
